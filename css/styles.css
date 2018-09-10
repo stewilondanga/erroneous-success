@@ -67,11 +67,11 @@ p {
   letter-spacing: 1px;
 }
 
-/*button, .dot {
+button, .dot {
   cursor: pointer;
 }
 
-#success-box {
+/*#success-box {
   position: absolute;
   width: 35%;
   height: 100%;
