@@ -124,7 +124,7 @@ button, .dot {
   animation: bounce 1s ease-in infinite;
 }
 
-/*.face2 {
+.face2 {
   position: absolute;
   width: 22%;
   height: 22%;
@@ -137,7 +137,7 @@ button, .dot {
   animation: roll 3s ease-in-out infinite;
 }
 
-.eye {
+/*.eye {
   position: absolute;
   width: 5px;
   height: 5px;
