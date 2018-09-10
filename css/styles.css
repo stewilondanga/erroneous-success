@@ -92,7 +92,7 @@ button, .dot {
   box-shadow: 5px 5px 20px #cbcdd3;
 }
 
-/*.dot {
+.dot {
   width: 8px;
   height: 8px;
   background: #FCFCFC;
@@ -102,7 +102,7 @@ button, .dot {
   right: 6%;
 }
 
-.dot:hover {
+/*.dot:hover {
   background: #c9c9c9;
 }
 
