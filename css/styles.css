@@ -106,12 +106,12 @@ button, .dot {
   background: #c9c9c9;
 }
 
-/*.two {
+.two {
   right: 12%;
   opacity: .5;
 }
 
-.face {
+/*.face {
   position: absolute;
   width: 22%;
   height: 22%;
