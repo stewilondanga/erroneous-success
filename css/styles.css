@@ -215,13 +215,13 @@ button, .dot {
   transition: all .5s ease-in-out;
 }
 
-/*.button-box:hover {
+.button-box:hover {
   background: #efefef;
   transform: scale(1.05);
   transition: all .3s ease-in-out;
 }
 
-@keyframes bounce {
+/*@keyframes bounce {
   50% {
     transform: translateY(-10px);
   }
