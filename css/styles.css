@@ -185,11 +185,11 @@ button, .dot {
   z-index: 1;
 }
 
-/*.scale {
+.scale {
   animation: scale 1s ease-in infinite;
 }
 
-.move {
+/*.move {
   animation: move 3s ease-in-out infinite;
 }
 
