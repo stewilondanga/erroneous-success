@@ -201,7 +201,7 @@ button, .dot {
   top: 47%;
 }
 
-/*.button-box {
+.button-box {
   position: absolute;
   background: #FCFCFC;
   width: 50%;
@@ -215,7 +215,7 @@ button, .dot {
   transition: all .5s ease-in-out;
 }
 
-.button-box:hover {
+/*.button-box:hover {
   background: #efefef;
   transform: scale(1.05);
   transition: all .3s ease-in-out;
