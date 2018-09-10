@@ -227,13 +227,13 @@ button, .dot {
   }
 }
 
-/*@keyframes scale {
+@keyframes scale {
   50% {
     transform: scale(0.9);
   }
 }
 
-@keyframes roll {
+/*@keyframes roll {
   0% {
     transform: rotate(0deg);
     left: 25%;
