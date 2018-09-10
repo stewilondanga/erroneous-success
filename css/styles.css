@@ -151,7 +151,7 @@ button, .dot {
   left: 68%;
 }
 
-/*.mouth {
+.mouth {
   position: absolute;
   top: 43%;
   left: 41%;
@@ -160,7 +160,7 @@ button, .dot {
   border-radius: 50%;
 }
 
-.happy {
+/*.happy {
   border: 2px solid;
   border-color: transparent #777777 #777777 transparent;
   transform: rotate(45deg);
