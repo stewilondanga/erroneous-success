@@ -82,7 +82,7 @@ button, .dot {
   perspective: 40px;
 }
 
-/*#error-box {
+#error-box {
   position: absolute;
   width: 35%;
   height: 100%;
@@ -92,7 +92,7 @@ button, .dot {
   box-shadow: 5px 5px 20px #cbcdd3;
 }
 
-.dot {
+/*.dot {
   width: 8px;
   height: 8px;
   background: #FCFCFC;
