@@ -221,13 +221,13 @@ button, .dot {
   transition: all .3s ease-in-out;
 }
 
-/*@keyframes bounce {
+@keyframes bounce {
   50% {
     transform: translateY(-10px);
   }
 }
 
-@keyframes scale {
+/*@keyframes scale {
   50% {
     transform: scale(0.9);
   }
