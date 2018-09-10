@@ -137,7 +137,7 @@ button, .dot {
   animation: roll 3s ease-in-out infinite;
 }
 
-/*.eye {
+.eye {
   position: absolute;
   width: 5px;
   height: 5px;
@@ -147,7 +147,7 @@ button, .dot {
   left: 20%;
 }
 
-.right {
+/*.right {
   left: 68%;
 }
 
