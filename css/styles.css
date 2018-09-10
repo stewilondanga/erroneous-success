@@ -193,7 +193,7 @@ button, .dot {
   animation: move 3s ease-in-out infinite;
 }
 
-/*.message {
+.message {
   position: absolute;
   width: 100%;
   text-align: center;
@@ -201,7 +201,7 @@ button, .dot {
   top: 47%;
 }
 
-.button-box {
+/*.button-box {
   position: absolute;
   background: #FCFCFC;
   width: 50%;
