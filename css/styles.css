@@ -4,6 +4,15 @@ html {
   min-height: 100%;
 }
 
+body {
+  display: grid;
+  overflow: hidden;
+  font-family: "Lato", sans-serif;
+  text-transform: uppercase;
+  text-align: center;
+  background-color: purple;
+}
+
 /*body {
   text-align: center;
   font-family: courier;
@@ -25,14 +34,6 @@ html {
 
 .my_social a img {
   height: 1.5em;
-}
-
-body {
-  display: grid;
-  overflow: hidden;
-  font-family: "Lato", sans-serif;
-  text-transform: uppercase;
-  text-align: center;
 }
 
 #container {
