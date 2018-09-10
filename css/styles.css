@@ -166,14 +166,14 @@ button, .dot {
   transform: rotate(45deg);
 }
 
-/*.sad {
+.sad {
   top: 49%;
   border: 2px solid;
   border-color: #777777 transparent transparent #777777;
   transform: rotate(45deg);
 }
 
-.shadow {
+/*.shadow {
   position: absolute;
   width: 21%;
   height: 3%;
