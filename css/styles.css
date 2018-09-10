@@ -71,7 +71,7 @@ button, .dot {
   cursor: pointer;
 }
 
-/*#success-box {
+#success-box {
   position: absolute;
   width: 35%;
   height: 100%;
@@ -82,7 +82,7 @@ button, .dot {
   perspective: 40px;
 }
 
-#error-box {
+/*#error-box {
   position: absolute;
   width: 35%;
   height: 100%;
