@@ -173,7 +173,7 @@ button, .dot {
   transform: rotate(45deg);
 }
 
-/*.shadow {
+.shadow {
   position: absolute;
   width: 21%;
   height: 3%;
@@ -185,7 +185,7 @@ button, .dot {
   z-index: 1;
 }
 
-.scale {
+/*.scale {
   animation: scale 1s ease-in infinite;
 }
 
