@@ -59,7 +59,7 @@ h1 {
   letter-spacing: 5px;
 }
 
-/*p {
+p {
   margin-top: -5px;
   font-size: 0.5em;
   font-weight: 100;
@@ -67,7 +67,7 @@ h1 {
   letter-spacing: 1px;
 }
 
-button, .dot {
+/*button, .dot {
   cursor: pointer;
 }
 
