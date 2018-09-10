@@ -248,7 +248,7 @@ button, .dot {
   }
 }
 
-/*@keyframes move {
+@keyframes move {
   0% {
     left: 25%;
   }
@@ -260,7 +260,7 @@ button, .dot {
   }
 }
 
-footer {
+/*footer {
   position: absolute;
   bottom: 0;
   right: 0;
