@@ -189,11 +189,11 @@ button, .dot {
   animation: scale 1s ease-in infinite;
 }
 
-/*.move {
+.move {
   animation: move 3s ease-in-out infinite;
 }
 
-.message {
+/*.message {
   position: absolute;
   width: 100%;
   text-align: center;
